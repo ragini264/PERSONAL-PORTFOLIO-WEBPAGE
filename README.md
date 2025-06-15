@@ -37,4 +37,9 @@ This section is the highlight of the portfolio. Showcase academic or personal pr
 6. Contact Form or Details:
 A contact form with fields like name, email, subject, and message should be included. Alternatively, display contact info such as email address, phone number, and social media links (LinkedIn, GitHub, etc.).
 
-OUTPUT 
+OUTPUT : 
+![Image](https://github.com/user-attachments/assets/4bcf1762-20c4-4dfe-b7bc-0b7264cac9af)
+
+![Image](https://github.com/user-attachments/assets/4537a76b-2c07-4495-bc89-763200d67904)
+
+![Image](https://github.com/user-attachments/assets/747bc193-3f70-4874-9884-8171f0bce0b4)
